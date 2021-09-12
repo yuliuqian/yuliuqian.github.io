@@ -89,14 +89,13 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=AxZDDc0AAAAJ"
   email            : "liuqianyu@ust.hk"
   researchgate     : "https://www.researchgate.net/profile/Liuqian-Yu" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : ”https://facultyprofiles.hkust-gz.edu.cn/#/faculty-personal-page?id=246“
   bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuliuqian"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  github           : "yuliuqian"
 
 
 # Reading Files

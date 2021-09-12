@@ -23,7 +23,7 @@ author_profile: true
 
 <p align = "justify"> Implementation of data assimilation technique in twin experiment framework is used for observing system simulation experiments (OSSEs) that evaluate the impact of different ocean observing system designs on model predictive skill. By conducting OSSEs using the data-assimilative model developed for Gulf of Mexico, I showed that observations sampling strategy adopted during the  Gulf of Mexico oil spill in 2010 was inefficient to track the movement of hydrocarbon plumes and I propose an optimized observing system that could more accurately estimate the plume movement and hydrocarbon biodegradation.</p>
 
-![Fig02-1](https://yuliuqian.github.io/images/Fig02-1_std_ndata_CDOA_maxdist.png){:height="25%" width="25%"}  ![Fig02-2](https://yuliuqian.github.io/images/Fig02-02_modobs_O2drawdown_v4.png){:height="60%" width="60%"}
+![Fig02-1](https://yuliuqian.github.io/images/Fig02-1_std_ndata_CDOA_maxdist.png){:height="25%" width="25%"}              ![Fig02-2](https://yuliuqian.github.io/images/Fig02-02_modobs_O2drawdown_v4.png){:height="60%" width="60%"}
 
 ## **Exploring eco-engineering approaches to mitigate human-caused problems**
 

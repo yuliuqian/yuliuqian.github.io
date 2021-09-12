@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="https://yuliuqian.github.io/files/CV_LiuqianYu_202109.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="https://yuliuqian.github.io/files/CV_LiuqianYu_202109.pdf">download it here.</a></u> (Last updated on 12 September 2021)
 <br/>
 
 <embed src="https://yuliuqian.github.io/files/CV_LiuqianYu_202109.pdf" type="application/pdf" width="100%" />

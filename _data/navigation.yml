@@ -11,10 +11,7 @@ main:
 
   - title: "CV"
     url: /cv/    
-    
-  - title: "News"
-    url: /news/
-        
+            
   - title: "Join us"
     url: /join-us/
 

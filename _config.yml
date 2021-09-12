@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Marine Ecosystem Modelling EcoMod Group"
 title_separator          : "-"
-name                     : &name "Liuqian Yu"
+name                     : &name "Marine Ecosystem Modelling EcoMod Group"
 description              : &description "Research scientist"
 url                      : https://yuliuqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

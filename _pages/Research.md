@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Themes"
 permalink: /research/
 author_profile: true
 ---
@@ -8,4 +8,20 @@ author_profile: true
 
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
+
+Biogeochemical modelling to understand human impacts on marine ecosystems
+====
+Biogeochemical ocean models that coupled physical, chemical, and biological processes are invaluable tools for ocean research and management. My previous work involved using a variety of regional-scale 3D biogeochemical models to understand and predict pressing environmental issues, such as the eutrophication, hypoxia (i.e., dissolved oxygen concentration < 2 mg/L), and the catastrophic oil spill events. By developing and validating models of various configurations and levels of complexity, I address questions including: 1) what are the primary physical and biogeochemical processes controlling oxygen dynamics and hypoxia? 2) how complicated the oxygen model is needed to skilfully simulate the hypoxic conditions, e.g., a simple oxygen model based on observations-derived empirical relationships versus a full biogeochemical model? 3) what is the role of river-delivered terrestrial organic matter in hypoxia formation? and 4) how much and how fast have the unprecedented amount of deep-water hydrocarbon plumes released from the 2010 Gulf of Mexico oil spill been degraded by microbes?  
+
+Research on above questions provide useful information for understanding and management of diverse ecosystems. Specifically, my work revealed that hypoxia on the Louisiana Shelf, the second largest man-made hypoxic zone in the world, is largely determined by physical processes and sediment oxygen consumption; and a simple oxygen model (based on observations-derived empirical relationship), instead of a full biogeochemical model, when coupling with the realistic circulation model, could be sufficient for short-term hypoxia prediction on Louisiana Shelf. The eutrophication-driven hypoxia developed off the Pearl River Estuary is significantly promoted by river-delivered terrestrial organic matter via multiple direct and indirect mechanisms. The movement and decay of deep-water hydrocarbon plume released from the Gulf of Mexico oil spill, the worst oil spill in U.S. history, can be traced by a clear signal of oxygen drawdown at depth (~1100 m). The signal of oxygen drawdown revealed that the hydrocarbon plume primarily propagated southwestward and was rapidly biodegraded.
+
+Applying data assimilation techniques to improve model estimation and optimize observing system design 
+====
+While biogeochemical models are invaluable tools for ocean research, they offer an imperfect representation of the true ocean, limited by various sources of error resulting from imperfect descriptions of physical and biological processes, inaccurate forcing, uncertain initial and boundary conditions, and imprecise parameter values. My work in data assimilation methods that merge the information contained in observations and dynamical models can provide more accurate representation of marine physical and biogeochemical processes. Specifically, my previous work involved implementing and exploring a multivariate data assimilation method, the Ensemble Kalman Filter (EnKF), to improve ocean model fields. One work revealed that when biogeochemical and physical ocean  properties are highly correlated (e.g., thermocline and nutricline), multivariate updates of both are essential for improving model skill and can be accomplished by assimilating either physical (e.g., temperature profiles) or biogeochemical (e.g., nutrient profiles) observations. In another work, I demonstrated that he EnKF method can significantly improve the simulated mesoscale circulation and the movement of deep-water hydrocarbon plumes in the Gulf of Mexico.
+
+Implementation of data assimilation technique in twin experiment framework is used for observing system simulation experiments (OSSEs) that evaluate the impact of different ocean observing system designs on model predictive skill. By conducting OSSEs using the data-assimilative model developed for Gulf of Mexico, I showed that observations sampling strategy adopted during the  Gulf of Mexico oil spill in 2010 was inefficient to track the movement of hydrocarbon plumes and I propose an optimized observing system that could more accurately estimate the plume movement and hydrocarbon biodegradation.  
+
+Exploring eco-engineering approaches to mitigate human-caused problems
+====
+Eutrophication-driven hypoxia is among the most serious threats to aquatic ecosystems worldwide, calling for strategical mitigation efforts. My work also aims at providing theoretical basis supporting such efforts. Among the various management options to reduce eutrophication, shellfish aquaculture has been considered a promising eco-engineering approach, because the filter-feeding activities of shellfish naturally remove the nutrients contained in plankton and particulate organic matter. To investigate the effectiveness and underlying ecosystem dynamics of shellfish aquaculture on alleviating eutrophication and hypoxia under complex hydrodynamical-biogeochemical conditions, my recent work has extended the physical-biogeochemical model of Pearl River Estuary to include an oyster aquaculture module. The work highlights the prospect of incorporating shellfish aquaculture as a eutrophication and hypoxia management tool. It also demonstrates that the effectiveness of oyster aquaculture on hypoxia mitigation hinges on the farming location, areal size, and oyster cultivation density, all of which must be considered along with the circulation and biogeochemical characteristics of the ecosystem.  
 

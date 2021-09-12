@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EcoMod Group"
+title                    : "Marine Ecosystem Modelling"
 title_separator          : "-"
-name                     : &name "EcoMod Group"
+name                     : &name "Marine Ecosystem Modelling"
 description              : &description "Research scientist"
 url                      : "https://yuliuqian.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -9,13 +9,13 @@ author_profile: true
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-## **- Biogeochemical modelling to understand human impacts on marine ecosystems**
+## **Biogeochemical modelling to understand human impacts on marine ecosystems**
 
 <p align = "justify"> Biogeochemical ocean models that coupled physical, chemical, and biological processes are invaluable tools for ocean research and management. My previous work involved using a variety of regional-scale 3D biogeochemical models to understand and predict pressing environmental issues, such as the eutrophication, hypoxia (i.e., dissolved oxygen concentration < 2 mg/L), and the catastrophic oil spill events. By developing and validating models of various configurations and levels of complexity, I address questions including: 1) what are the primary physical and biogeochemical processes controlling oxygen dynamics and hypoxia? 2) how complicated the oxygen model is needed to skilfully simulate the hypoxic conditions, e.g., a simple oxygen model based on observations-derived empirical relationships versus a full biogeochemical model? 3) what is the role of river-delivered terrestrial organic matter in hypoxia formation? and 4) how much and how fast have the unprecedented amount of deep-water hydrocarbon plumes released from the 2010 Gulf of Mexico oil spill been degraded by microbes?</p>
 
 Research on above questions provide useful information for understanding and management of diverse ecosystems. Specifically, my work revealed that hypoxia on the Louisiana Shelf, the second largest man-made hypoxic zone in the world, is largely determined by physical processes and sediment oxygen consumption; and a simple oxygen model (based on observations-derived empirical relationship), instead of a full biogeochemical model, when coupling with the realistic circulation model, could be sufficient for short-term hypoxia prediction on Louisiana Shelf. The eutrophication-driven hypoxia developed off the Pearl River Estuary is significantly promoted by river-delivered terrestrial organic matter via multiple direct and indirect mechanisms. The movement and decay of deep-water hydrocarbon plume released from the Gulf of Mexico oil spill, the worst oil spill in U.S. history, can be traced by a clear signal of oxygen drawdown at depth (~1100 m). The signal of oxygen drawdown revealed that the hydrocarbon plume primarily propagated southwestward and was rapidly biodegraded.
 ![NPZD-RivOM](https://yuliuqian.github.io/images/NPZD-RivOM-v4.png "NPZD-RivOM")
-
+![Fig01](https://yuliuqian.github.io/Fig01.png)
 
 ## **Applying data assimilation techniques to improve model estimation and optimize observing system design**
 
@@ -28,4 +28,4 @@ Implementation of data assimilation technique in twin experiment framework is us
 ## **Exploring eco-engineering approaches to mitigate human-caused problems**
 
 Eutrophication-driven hypoxia is among the most serious threats to aquatic ecosystems worldwide, calling for strategical mitigation efforts. My work also aims at providing theoretical basis supporting such efforts. Among the various management options to reduce eutrophication, shellfish aquaculture has been considered a promising eco-engineering approach, because the filter-feeding activities of shellfish naturally remove the nutrients contained in plankton and particulate organic matter. To investigate the effectiveness and underlying ecosystem dynamics of shellfish aquaculture on alleviating eutrophication and hypoxia under complex hydrodynamical-biogeochemical conditions, my recent work has extended the physical-biogeochemical model of Pearl River Estuary to include an oyster aquaculture module. The work highlights the prospect of incorporating shellfish aquaculture as a eutrophication and hypoxia management tool. It also demonstrates that the effectiveness of oyster aquaculture on hypoxia mitigation hinges on the farming location, areal size, and oyster cultivation density, all of which must be considered along with the circulation and biogeochemical characteristics of the ecosystem.  
-![Fig03](https://yuliuqian.github.io/images/Fig03_OysterImpact.pdf)
+![Fig03](https://yuliuqian.github.io/images/Fig00_Abstract.png)

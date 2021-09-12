@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr.Liuqian Yu"
+  name             : "Liuqian Yu"
   avatar           : "Liuqian_in_May.jpg"
   bio              : "Assistant Professor of The Hong Kong University of Science and Technology (Guangzhou)，expert in Biological oceanography、Marine ecosystem modeling、Data assimilation"
   location         : "Nansha,Guanzhou,China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=AxZDDc0AAAAJ"
+  email            : “liuqianyu@ust.hk”
+  researchgate     : “https://www.researchgate.net/profile/Liuqian-Yu” # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/yuliuqian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5492-8213"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-*Biogeochemical modelling to understand human impacts on marine ecosystems*
+**Biogeochemical modelling to understand human impacts on marine ecosystems**
 
 Biogeochemical ocean models that coupled physical, chemical, and biological processes are invaluable tools for ocean research and management. My previous work involved using a variety of regional-scale 3D biogeochemical models to understand and predict pressing environmental issues, such as the eutrophication, hypoxia (i.e., dissolved oxygen concentration < 2 mg/L), and the catastrophic oil spill events. By developing and validating models of various configurations and levels of complexity, I address questions including: 1) what are the primary physical and biogeochemical processes controlling oxygen dynamics and hypoxia? 2) how complicated the oxygen model is needed to skilfully simulate the hypoxic conditions, e.g., a simple oxygen model based on observations-derived empirical relationships versus a full biogeochemical model? 3) what is the role of river-delivered terrestrial organic matter in hypoxia formation? and 4) how much and how fast have the unprecedented amount of deep-water hydrocarbon plumes released from the 2010 Gulf of Mexico oil spill been degraded by microbes?  
 

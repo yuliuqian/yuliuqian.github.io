@@ -10,7 +10,7 @@ redirect_from:
 
 I work on ocean biogeochemistry and ecosystem modelling. I am passionate about using observations, models and statistical methods to improve the estimation and prediction of marine biogeochemical processes, and support management and sustainable development of marine ecosystems. 
 
-I am currently an assistant professor in the  [Earth, Ocean and Atmospheric Sciences](https://hkust-gz.edu.cn/academics/four-hubs/function-hub/earth-ocean-atmospheric-sciences) Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn) and an Affiliate Assistant Professor in the Department of Ocean Science at The Hong Kong University of Science and Technology. 
+I am currently an assistant professor in the  [Earth, Ocean and Atmospheric Sciences Thrust](https://hkust-gz.edu.cn/academics/four-hubs/function-hub/earth-ocean-atmospheric-sciences) at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn) and an Affiliate Assistant Professor in the Department of Ocean Science at The Hong Kong University of Science and Technology. 
 
 
 Research interests

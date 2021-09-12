@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr.Liuqian Yu"
+title                    : "Marine Ecosystem Modelling EcoMod Group"
 title_separator          : "-"
 name                     : &name "Liuqian Yu"
 description              : &description "Research scientist"
@@ -83,8 +83,8 @@ author:
   name             : "Liuqian Yu"
   avatar           : "Liuqian_in_May.jpg"
   bio              : "I’m a biogeochemical oceanographer specialised in ecosystem modelling. My primary research interest is to advance our understanding, prediction and management of marine ecosystems with observations, biogeochemical models and data assimilation techniques. "
-  location         : "Nansha,Guanzhou,China"
-  employer         :
+  location         : "Guanzhou,China"
+  employer         :”Assistant Professor, Earth, Ocean and Atmospheric Sciences Thrust,The Hong Kong University of Science and Technology (GZ)“
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AxZDDc0AAAAJ"
   email            : “liuqianyu@ust.hk”

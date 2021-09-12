@@ -15,7 +15,7 @@ author_profile: true
 
 Research on above questions provide useful information for understanding and management of diverse ecosystems. Specifically, my work revealed that hypoxia on the Louisiana Shelf, the second largest man-made hypoxic zone in the world, is largely determined by physical processes and sediment oxygen consumption; and a simple oxygen model (based on observations-derived empirical relationship), instead of a full biogeochemical model, when coupling with the realistic circulation model, could be sufficient for short-term hypoxia prediction on Louisiana Shelf. The eutrophication-driven hypoxia developed off the Pearl River Estuary is significantly promoted by river-delivered terrestrial organic matter via multiple direct and indirect mechanisms. The movement and decay of deep-water hydrocarbon plume released from the Gulf of Mexico oil spill, the worst oil spill in U.S. history, can be traced by a clear signal of oxygen drawdown at depth (~1100 m). The signal of oxygen drawdown revealed that the hydrocarbon plume primarily propagated southwestward and was rapidly biodegraded.
 ![NPZD-RivOM](https://yuliuqian.github.io/images/NPZD-RivOM-v4.png "NPZD-RivOM")
-![Fig01](https://yuliuqian.github.io/Fig01.png)
+![Fig01](https://yuliuqian.github.io/images/Fig01.png)
 
 ## **Applying data assimilation techniques to improve model estimation and optimize observing system design**
 

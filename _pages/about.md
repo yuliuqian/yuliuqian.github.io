@@ -1,9 +1,11 @@
 ---
-permalink: /about/
+permalink: /
 title: "About me"
 #excerpt: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Welcome to Marine Ecosystem Modelling (EcoMod) Group. I am a biogeochemical oceanographer interested in using models and statistical methods that combine observations and models to better estimate and predict marine biogeochemical processes and to support the management and sustainable development of marine ecosystems. [I currently work](https://facultyprofiles.hkust-gz.edu.cn/#/faculty-personal-page?id=246) as an assistant professor in the [Thrust of Earth, Ocean and Atmospheric Sciences](https://hkust-gz.edu.cn/academics/four-hubs/function-hub/earth-ocean-atmospheric-sciences) at [Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/academics/four-hubs/function-hub/earth-ocean-atmospheric-sciences) and an affiliate assistant professor in the [Department of Ocean Science](https://oces.hkust.edu.hk) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/home).

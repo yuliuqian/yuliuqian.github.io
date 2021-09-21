@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "About me"
@@ -13,6 +14,8 @@ Welcome to Marine Ecosystem Modelling (EcoMod) Group. I am a biogeochemical ocea
 
 Research interests
 ======
+![research_summary](https://user-images.githubusercontent.com/90517367/134146179-de05713c-e0c1-4561-88be-ab7288b7a7f7.png)
+
 **My primary research focus is to use biogeochemical models to investigate anthropogenic influences on marine ecosystems.** I apply regional-scale numerical models to understand and predict pressing environmental issues, with previous work including seasonal hypoxia on the Louisiana Shelf, eutrophication and hypoxia off the Pearl River Estuary, and deep-sea oil spill in the Gulf of Mexico. The work involves developing and validating models of various configurations and levels of complexity to address different questions.
 
 **I employ data assimilation techniques (i.e., statistical methods that combine observations with models) to improve model predictive capabilities and to optimize observing system designs.** For example, the assimilation method has been implemented in a Gulf of Mexico model to improve the simulated movement of deep-water hydrocarbon plumes and assess the observations sampling strategy adopted during the Gulf of Mexico oil spill in 2010.

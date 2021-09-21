@@ -12,6 +12,8 @@ Liuqian Yu. From Dead Zones to Oil Spills: understanding human impacts in the Gu
 
 Current Tides is a student magazine showcasing student research in Oceanography at Dalhousie University. Check out more editions [here](http://www.currenttides.ocean.dal.ca ). 
 
+Research blogs in Chinese
+======
 [养蚝治“富”：珠江口物理-生态-蚝养殖数值模拟研究](https://mp.weixin.qq.com/s/E_JJuYYwatepxrrbAazSkQ)
 [珠江口近岸水体缺氧：不可忽视的陆源有机质贡献](https://mp.weixin.qq.com/s/im9mNVPB6nO1WYXbRfE_AA)
 {% include base_path %}

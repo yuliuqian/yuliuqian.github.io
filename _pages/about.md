@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About me"

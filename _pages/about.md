@@ -14,7 +14,7 @@ Welcome to Marine Ecosystem Modelling (EcoMod) Group. I am a biogeochemical ocea
 
 Research interests
 ======
-![research_summary_yu1](https://user-images.githubusercontent.com/90517367/134173104-9779a4e8-a4e3-4ed1-9959-1429bd5ea3ba.png)
+![research_summary_yu1](https://user-images.githubusercontent.com/90517367/134175126-c8366339-bda2-4e9b-bcfa-b44634a5233a.png)
 
 
 Biography

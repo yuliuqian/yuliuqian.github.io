@@ -23,7 +23,7 @@ Implementation of data assimilation technique in twin experiment framework is us
 
 ![Fig02-1](https://yuliuqian.github.io/images/Fig02-1_std_ndata_CDOA_maxdist.png){:height="30%" width="30%"}              ![Fig02-2](https://yuliuqian.github.io/images/Fig02-02_modobs_O2drawdown_v4.png){:height="60%" width="60%"}
 
-## **Exploring eco-engineering approaches to mitigate human-caused problems**
+## **Exploring eco-engineering approaches to mitigate human-caused environmental problems**
 
 Eutrophication-driven hypoxia is among the most serious threats to aquatic ecosystems worldwide, calling for strategical mitigation efforts. My work also aims at providing a theoretical basis supporting such efforts. Among the various management options to reduce eutrophication, shellfish aquaculture has been considered a promising eco-engineering approach, because the filter-feeding activities of shellfish naturally remove the nutrients contained in plankton and particulate organic matter. To investigate the effectiveness and underlying ecosystem dynamics of shellfish aquaculture on alleviating eutrophication and hypoxia under complex hydrodynamical-biogeochemical conditions, my recent work has extended the physical-biogeochemical model of Pearl River Estuary to include an oyster aquaculture module. The work highlights the prospect of incorporating shellfish aquaculture as a eutrophication and hypoxia management tool. It also demonstrates that the effectiveness of oyster aquaculture on hypoxia mitigation hinges on the farming location, areal size, and oyster cultivation density, all of which must be considered along with the circulation and biogeochemical characteristics of the ecosystem. 
 

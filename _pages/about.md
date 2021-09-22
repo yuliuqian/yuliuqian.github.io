@@ -19,7 +19,7 @@ Research interests
 
 Biography
 ======
-I got undergraduate training in Environmental Science at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm) from 2007 to 2011, where I gained about 2 years’ lab work experience in soil biogeochemistry. My undergraduate thesis focused on soil carbon sequestration, with an emphasis on the effects of biochar application on soil greenhouse gas emissions. 
+I got undergraduate training in Environmental Science at [Sun Yat-sen University](http://www.sysu.edu.cn/en/index.htm) from 2007 to 2011, where I gained about 2 years’ lab work experience in soil biogeochemistry. 
 
 I went into the field of oceanography at [Dalhousie University](https://www.dal.ca) in 2012, working with [Dr. Katja Fennel](http://memg.ocean.dal.ca/fennel/) on ocean biogeochemistry and modeling. During my PhD, I received fellowship funding to visit the Data Assimilation Group led by [Dr. Laurent Bertino](https://www.nersc.no/staff/laurent-bertino) at Nansen Environmental and Remote Sensing Center, where I learned cutting-edge assimilation techniques to improve ocean model simulation. 
 

@@ -12,4 +12,4 @@ author_profile: true
 We are looking for graduate students and post-doctoral associates with interdisciplinary research interests to join us. We also welcome undergraduate students and visiting scholars to collaborate on research projects. While our work heavily applies modelling techniques, coding/programming skill is a plus but not a prerequisite for prospective members to join the group. Please contact Liuqian Yu (liuqianyu@ust.hk) for more information.   
 
 Additional information on the graduate program in the Thrust of Earth, Ocean and Atmospheric Sciences (EOAS) at HKUST(GZ) is also available in the flyer below.
-![Flyer](https://yuliuqian.github.io/images/HKUST_GZ_EOAS_PhDMphil_flyer.jpg)
+![Flyer](https://yuliuqian.github.io/images/EOAS_Flyer_v1.jpg)

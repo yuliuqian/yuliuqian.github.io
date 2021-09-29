@@ -23,4 +23,4 @@ I got undergraduate training in Environmental Science at [Sun Yat-sen University
 
 I went into the field of oceanography at [Dalhousie University](https://www.dal.ca) in 2012, working with [Dr. Katja Fennel](http://memg.ocean.dal.ca/fennel/) on ocean biogeochemistry, ecosystem modeling, and data assimilation. Part of the assimilation work was collaborated with [Dr. Laurent Bertino](https://www.nersc.no/staff/laurent-bertino)'s group at NERSC during my exchange study in Norway.
 
-Upon graduation in 2019, I worked as a postdoc at HKUST with [Dr. Jianping Gan](https://odmp.ust.hk) on ocean physical-biogeochemical interactions. I got appointed as a research assistant professor in June 2020 and an assistant professor in July 2021. 
+After receiving my PhD in 2019, I worked as a postdoc at HKUST with [Dr. Jianping Gan](https://odmp.ust.hk) on ocean physical-biogeochemical interactions. I got appointed as a research assistant professor in June 2020 and an assistant professor in July 2021. 

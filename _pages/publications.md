@@ -12,7 +12,7 @@ Liuqian Yu. From Dead Zones to Oil Spills: understanding human impacts in the Gu
 
 Current Tides is a student magazine showcasing student research in Oceanography at Dalhousie University. Check out more editions [here](http://www.currenttides.ocean.dal.ca). 
 
-### Check out a primer article on <a href="https://rdcu.be/diaD0">ocean biogeochemical modeling</a> with hands-on examples  
+### Check out a primer article on <a href="https://rdcu.be/diaD0">ocean biogeochemical modelling</a> with hands-on examples  
 Fennel, K., Mattern, J. P., Doney, S. C., Bopp, L., Moore, A. M., Wang, B., and Yu, L.: Ocean biogeochemical modelling, Nature Review Methods Primers, 2, 76, https://doi.org/10.1038/s43586-022-00154-2, 2022.
   
 ### Research blogs in Chinese  

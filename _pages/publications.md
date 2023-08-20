@@ -9,6 +9,7 @@ Please find my peer-reviewed publications on <a href="https://scholar.google.com
 
 ### Check out a plain-language article on <a href="https://yuliuqian.github.io/files/CurrentTidesIssue3_LiuqianYU_article_only.pdf">my PhD research</a>:  
 Liuqian Yu. From Dead Zones to Oil Spills: understanding human impacts in the Gulf of Mexico with numerical models and data assimilation. Current Tides (Volume 3). 2017
+
 Current Tides is a student magazine showcasing student research in Oceanography at Dalhousie University. Check out more editions [here](http://www.currenttides.ocean.dal.ca). 
 
 ### Check out a primer article on <a href="https://rdcu.be/diaD0">ocean biogeochemical modeling</a> with hands-on examples:  
